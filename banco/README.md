@@ -1,4 +1,4 @@
-# Sistema Bancário v1 - DESFIO DIO NTT Data
+# Sistema Bancário v1 - DESAFIO DIO NTT Data
 
 ## Introdução
 
